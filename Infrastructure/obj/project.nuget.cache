@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jCpsOgyO4dZmHLiFmwV0xdWTqI5BzV2iaD5oSdPPZ7JgBmtPf4hfpw89FIeHJbtOy741H7HOLedcOwrR7QSgpQ==",
+  "dgSpecHash": "bsXWevrWySfBesn+WRPCgmlORiqZy0glswRgNicZuLc/qc0e+FEt0TGTvth+ESUFEPb5+Bz2LssT368uyXCLSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Moazzam\\source\\repos\\FluentValidationImp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moazzam\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Moazzam\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Moazzam\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Moazzam\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\Moazzam\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Moazzam\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
